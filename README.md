@@ -24,8 +24,10 @@ Requisitos funcionales:
 - Mostrar información detallada de jugador. (extend: Mostrar información equipo)
    <br>
 2. Elaboración del diagrama de casos de uso: Dibuja el diagrama UML mostrando actores y relaciones (<<include>>, <<extend>>).
-  <br>
+<br>
+
 ![image](https://github.com/user-attachments/assets/85c536e8-8bce-4da6-afa9-dc6c1d1e0a1c)
+
 <br>
 En este diagrama se respresnetan varios procesos:
 ### Inscribir equipo
